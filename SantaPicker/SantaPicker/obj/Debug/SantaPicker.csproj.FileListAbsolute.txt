@@ -1,0 +1,10 @@
+C:\Users\sjmcn\Development\Visual studio stuff\SantaPicker\SantaPicker\bin\Debug\SantaPicker.exe.config
+C:\Users\sjmcn\Development\Visual studio stuff\SantaPicker\SantaPicker\bin\Debug\SantaPicker.exe
+C:\Users\sjmcn\Development\Visual studio stuff\SantaPicker\SantaPicker\bin\Debug\SantaPicker.pdb
+C:\Users\sjmcn\Development\Visual studio stuff\SantaPicker\SantaPicker\obj\Debug\SantaPicker.csprojAssemblyReference.cache
+C:\Users\sjmcn\Development\Visual studio stuff\SantaPicker\SantaPicker\obj\Debug\SantaPicker.Form1.resources
+C:\Users\sjmcn\Development\Visual studio stuff\SantaPicker\SantaPicker\obj\Debug\SantaPicker.Properties.Resources.resources
+C:\Users\sjmcn\Development\Visual studio stuff\SantaPicker\SantaPicker\obj\Debug\SantaPicker.csproj.GenerateResource.cache
+C:\Users\sjmcn\Development\Visual studio stuff\SantaPicker\SantaPicker\obj\Debug\SantaPicker.csproj.CoreCompileInputs.cache
+C:\Users\sjmcn\Development\Visual studio stuff\SantaPicker\SantaPicker\obj\Debug\SantaPicker.exe
+C:\Users\sjmcn\Development\Visual studio stuff\SantaPicker\SantaPicker\obj\Debug\SantaPicker.pdb
